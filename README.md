@@ -1,6 +1,11 @@
 # UNO: play with a bot or friends
 
 Enter a player name on the start screen before choosing either mode. The name is required and appears in the match.
+## Screenshots
+
+![UNO game start screen](uno-main-menu.png)
+
+![UNO bot match gameplay](uno-bot-match.png)
 
 The start screen offers two modes:
 
